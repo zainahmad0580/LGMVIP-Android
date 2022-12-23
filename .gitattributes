@@ -1,2 +1,2 @@
-*.dart linguist-detectable=true
-*.cmake linguist-detectable=false
+windows/* linguist-vendored
+linux/* linguist-vendored
